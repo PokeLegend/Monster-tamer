@@ -1,0 +1,31 @@
+{
+  "Tackle":      {"type": "Normal",   "power": 35, "accuracy": 100, "pp": 30},
+  "Scratch":     {"type": "Normal",   "power": 30, "accuracy": 100, "pp": 30},
+  "Guard Up":    {"type": "Normal",   "power": 0,  "accuracy": 100, "pp": 20, "effect": "raise_def"},
+  "Quick Snap":  {"type": "Normal",   "power": 25, "accuracy": 100, "pp": 30},
+  "Roar":        {"type": "Normal",   "power": 0,  "accuracy": 100, "pp": 15, "effect": "lower_atk"},
+
+  "Ember":       {"type": "Fire",     "power": 35, "accuracy": 100, "pp": 25},
+  "Flame Bite":  {"type": "Fire",     "power": 55, "accuracy": 95,  "pp": 15},
+  "Inferno":     {"type": "Fire",     "power": 85, "accuracy": 85,  "pp": 10},
+
+  "Water Jet":   {"type": "Water",    "power": 35, "accuracy": 100, "pp": 25},
+  "Aqua Fang":   {"type": "Water",    "power": 55, "accuracy": 95,  "pp": 15},
+  "Tidal Wave":  {"type": "Water",    "power": 85, "accuracy": 85,  "pp": 10},
+
+  "Vine Snap":   {"type": "Grass",    "power": 35, "accuracy": 100, "pp": 25},
+  "Razor Leaf":  {"type": "Grass",    "power": 55, "accuracy": 95,  "pp": 15},
+  "Bloom Burst": {"type": "Grass",    "power": 85, "accuracy": 85,  "pp": 10},
+
+  "Static Shock":{"type": "Electric", "power": 35, "accuracy": 100, "pp": 25},
+  "Volt Fang":   {"type": "Electric", "power": 55, "accuracy": 95,  "pp": 15},
+  "Thunderstrike":{"type": "Electric","power": 85, "accuracy": 85,  "pp": 10},
+
+  "Rock Throw":  {"type": "Rock",     "power": 35, "accuracy": 100, "pp": 25},
+  "Boulder Crush":{"type": "Rock",    "power": 55, "accuracy": 95,  "pp": 15},
+  "Landslide":   {"type": "Rock",     "power": 85, "accuracy": 85,  "pp": 10},
+
+  "Gust":        {"type": "Flying",   "power": 35, "accuracy": 100, "pp": 25},
+  "Wing Slash":  {"type": "Flying",   "power": 55, "accuracy": 95,  "pp": 15},
+  "Sky Dive":    {"type": "Flying",   "power": 85, "accuracy": 85,  "pp": 10}
+}
